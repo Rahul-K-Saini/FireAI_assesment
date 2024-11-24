@@ -61,7 +61,7 @@ export function Sidebar() {
         </div>
       </div>
 
-      <div className="space-y-4 mt-4">
+      <div className="space-y-4 mt-1">
         <div className="flex flex-col gap-1 bg-gray-100 dark:bg-gray-900 py-3 px-2 rounded-md">
           <div className="flex justify-between items-center rounded p-2 bg-white dark:bg-gray-800">
             <p className="text-gray-500 dark:text-gray-400 text-xs">Account:</p>
